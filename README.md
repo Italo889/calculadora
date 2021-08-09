@@ -5,6 +5,6 @@ Após fazer o clone, no diretório local do projeto, execute no terminal:
 Inicie o app no modo de desenvolvimento.\
 Abra [http://localhost:3000](http://localhost:3000) para visualizar no navegador.
 
-### Github Pages
+### CodeSandBox
 
-[Link](https://italo889.github.io/calculadora/)
+[Link](https://codesandbox.io/s/calculadora-react-tdb97?file=/src/main/Calculator.jsx)
